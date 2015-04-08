@@ -1,0 +1,2 @@
+# spotsign
+Spot signature service
